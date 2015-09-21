@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--La ligne ci-dessus est le prologue-->
+
+<!--élément racine-->
+<varietesnuages>
+
+	<!--Premier enfant-->
+	<nuage>
+		
+		<!--élément enfant titre-->
+		<nom>altocumulus
+			<espece>lenticularis</espece>
+			<espece>stratiformis</espece>
+			<espece>castellanus</espece>
+			<espece>flocus</espece>
+		</nom>
+	 	<altitude max="6000" min="2000"/>
+	 	<hydrometeores>Aucun</hydrometeores>
+	
+	</nuage>
+	
+	<nuage>
+		
+		<nom>cirrocumulus 
+			<espece>lenticularis</espece>
+			<espece>stratiformis</espece>
+			<espece>castellanus</espece>
+			<espece>flocus</espece>
+		</nom>
+	 	<altitude max="7000" min="5000"/>
+	 	<hydrometeores>Aucun</hydrometeores>
+	
+	</nuage>
+	
+	<nuage>
+		
+		<nom>cirrus 
+			<espece>castellanus</espece>
+			<espece>flocus</espece>
+			<espece>spissatus</espece>
+			<espece>uncinus </espece>
+			<espece>fibratus </espece>
+		</nom>
+	 	<altitude max="12000" min="6000"/>
+	 	<hydrometeores>Aucun</hydrometeores>
+	
+	</nuage>
+
+	<nuage>
+	
+		<nom>strato-cumulus 
+			<espece>stratiformis</espece>
+			<espece>lenticularis </espece>
+			<espece>castellanus </espece>
+		</nom>
+	 	<altitude max="2000" min="0"/>
+	 	<hydrometeores>Aucun</hydrometeores>
+	
+	</nuage>
+
+	<nuage>
+		
+		<nom>cumulus  
+			<espece>fractus</espece>
+			<espece>mediocris</espece>
+			<espece>humilis </espece>
+			<espece>congestus </espece>
+		</nom>
+	 	<altitude max="8000" min="200"/>
+	 	<hydrometeores>Aucun, en général</hydrometeores>
+	
+	</nuage>
+
+	<nuage>
+		
+		<nom>cumulonimbus
+			<espece>calvus</espece>
+			<espece>capillatus</espece>
+			<espece>mammatus </espece>
+		</nom>
+	 	<altitude max="8000" min="200"/>
+	 	<hydrometeores>Averses (parfois de neige, de grésil ou de grêle)</hydrometeores>
+	 	<!--
+		<hydrometeores type="Averses">neige</hydrometeores>
+		<hydrometeores type="Averses">grésil</hydrometeores>
+		<hydrometeores type="Averses">grêle</hydrometeores>
+	 	-->
+	
+	</nuage>
+
+</varietesnuages>
