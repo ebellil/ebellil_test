@@ -2,6 +2,8 @@
 <!--La ligne ci-dessus est le prologue-->
 
 <!--élément racine-->
+<espece>TEST</espece>
+<espece>TEST2</espece>
 <varietesnuages>
 
 	<!--Premier enfant-->
